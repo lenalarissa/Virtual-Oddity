@@ -1,5 +1,6 @@
 # Virtual Oddity
 > An immersive musical experience exploring loneliness, detachment, and drifting away from reality.
+> 3rd place in the HTW Berlin's Best Computer Science Project 2024 competition.
 
 <img width="720" height="405" alt="23" src="https://github.com/user-attachments/assets/55adb592-827f-446f-b449-bc6fe2742d18" />
 
