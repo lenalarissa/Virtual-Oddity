@@ -1,16 +1,8 @@
-# Virtual Oddity
-> An immersive musical experience exploring loneliness, detachment, and drifting away from reality.
+<img width="7544" height="1434" alt="vo" src="https://github.com/user-attachments/assets/302d7211-fa66-47a0-9cb7-e17e8af38607" />
+
 > 3rd place in the HTW Berlin's Best Computer Science Project 2024 competition.
-
-<img width="720" height="405" alt="23" src="https://github.com/user-attachments/assets/55adb592-827f-446f-b449-bc6fe2742d18" />
-
 ---
 
-**HTW Berlin – Department 4: Computer Science in Culture and Health**  
-**Mixed Reality Project**  
-By: Lena Heisel, Susanne Höpfner, Paul Lengert, Tan Henry Nguyen  
-
----
 
 ## Overview
 
@@ -19,7 +11,9 @@ The project combines music, immersion, and interactivity to create a unique VR e
 Users enter a virtual world that evolves with the rhythm and mood of the song.  
 Each interaction affects the sound layers and the atmosphere of the scene.
 
+---
 
+<img width="720" height="405" alt="23" src="https://github.com/user-attachments/assets/55adb592-827f-446f-b449-bc6fe2742d18" />
 
 ---
 
